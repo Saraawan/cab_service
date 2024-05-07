@@ -12,18 +12,20 @@ Metrics Tracking: The app tracks important metrics such as the number of rides t
 
 Usage
 Passenger Usage:
+
 Open the Road Rangers app.
 Choose your desired ride option.
 Enter your pickup and drop-off locations.
 Confirm your ride request.
+
 Captain Usage:
+
 Open the Road Rangers app.
 Accept ride requests from passengers.
 Navigate to the pickup location and fulfill the ride request.
 
 Technology Stack
-Frontend: HTML, CSS, JavaScript (React.js)
-Backend: Node.js, Express.js
+
 Database Connectivity: MS Access
 Database Management Tool: Microsoft Access for database connectivity
 IDE:  NetBeans for Java development
